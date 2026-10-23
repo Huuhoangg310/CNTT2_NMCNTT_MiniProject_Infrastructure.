@@ -1,0 +1,17 @@
+Chua chay script. Tep nay se duoc noi them ket qua khi chay auto_report.bat.
+
+==========================================
+BAO CAO SU CO - Fri 10/23/2026 14:53:56.59
+Nguon: data\log-he-thong.log
+==========================================
+2026-10-23 08:01:14 ERROR 404 Cannot find endpoint /api/sensor/17
+2026-10-23 08:03:09 CRITICAL Storage threshold exceeded on station GT-08
+2026-10-23 08:05:20 ERROR TIMEOUT Station GT-12 did not respond
+
+==========================================
+BAO CAO SU CO - Fri 10/23/2026 15:05:11.65
+Nguon: data\log-he-thong.log
+==========================================
+2026-10-23 08:01:14 ERROR 404 Cannot find endpoint /api/sensor/17
+2026-10-23 08:03:09 CRITICAL Storage threshold exceeded on station GT-08
+2026-10-23 08:05:20 ERROR TIMEOUT Station GT-12 did not respond

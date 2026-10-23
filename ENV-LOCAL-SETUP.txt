@@ -1,0 +1,4 @@
+Tao file .env cuc bo tu thu muc goc bang Command Prompt:
+copy .env.example .env
+
+Khong commit .env len GitHub. Chi commit .env.example voi gia tri gia lap.
