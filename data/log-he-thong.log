@@ -1,0 +1,7 @@
+2026-10-23 08:00:01 INFO Sensor gateway started
+2026-10-23 08:01:14 ERROR 404 Cannot find endpoint /api/sensor/17
+2026-10-23 08:02:25 INFO Sensor 17 heartbeat received
+2026-10-23 08:03:09 CRITICAL Storage threshold exceeded on station GT-08
+2026-10-23 08:04:44 WARN Retry connection
+2026-10-23 08:05:20 ERROR TIMEOUT Station GT-12 did not respond
+2026-10-23 08:06:01 INFO Report cycle complete
